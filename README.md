@@ -1,16 +1,37 @@
-## Hi there 👋
 
-<!--
-**pratheek-git/pratheek-git** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+###  👋 Hey, I'm **Kumar**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🎓 MCA student passionate about building efficient and meaningful software solutions.
+
+
+### 🚀 What I'm Working On
+
+* Developing projects using **FastAPI**, **React.js**, and **PostgreSQL**
+* Exploring **Data Analytics** and real-world data-driven insights
+
+
+### 🧰 Tech Stack & Tools  
+![Python](https://skillicons.dev/icons?i=python) 
+![FastAPI](https://skillicons.dev/icons?i=fastapi) 
+![React](https://skillicons.dev/icons?i=react) 
+![PostgreSQL](https://skillicons.dev/icons?i=postgres) 
+![Bootstrap](https://skillicons.dev/icons?i=bootstrap) 
+![Git](https://skillicons.dev/icons?i=git) 
+![VS Code](https://skillicons.dev/icons?i=vscode) 
+![Postman](https://skillicons.dev/icons?i=postman)
+
+
+
+### 📊 GitHub Stats
+
+![Kumar's GitHub stats](https://github-readme-stats.vercel.app/api?username=pratheek-git\&show_icons=true\&theme=tokyonight)
+
+
+
+📫 How to Reach Me
+
+📧 pratheek1962@gmail.com
+🔗 https://www.linkedin.com/in/pratheek-kumar92/
+
+
