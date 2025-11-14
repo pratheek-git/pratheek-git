@@ -25,7 +25,7 @@
 ---
 
 ### 📊 GitHub Stats
-![Kumar's GitHub stats](https://github-readme-stats.vercel.app/api?username=pratheek-git&show_icons=true&theme=tokyonight)
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=pratheek-git&theme=tokyo-night&from=2025-01-01&to=2025-12-31)
 
 ---
 
