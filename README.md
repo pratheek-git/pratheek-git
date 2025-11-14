@@ -25,8 +25,8 @@
 ---
 
 ### 📊 GitHub Stats
+![Contribution Stats](https://github-contributions.vercel.app/api/v1/pratheek-git?type=year&year=2024)
 
-![Kumar's GitHub stats](https://github-readme-stats.vercel.app/api?username=pratheek-git\&show_icons=true\&theme=tokyonight)
 
 ---
 
