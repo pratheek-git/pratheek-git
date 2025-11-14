@@ -25,7 +25,7 @@
 ---
 
 ### 📊 GitHub Stats
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=pratheek-git&theme=tokyo-night&from=2025-01-01&to=2025-12-31)
+![2025 Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=pratheek-git&theme=tokyo-night&from=2025-01-01&to=2025-12-31)
 
 ---
 
