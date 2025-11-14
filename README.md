@@ -25,8 +25,7 @@
 ---
 
 ### 📊 GitHub Stats
-![Contribution Stats](https://github-contributions.vercel.app/api/v1/pratheek-git?type=year&year=2024)
-
+https://github-contributions.vercel.app/api/v1/pratheek-git?type=year&year=2025
 
 ---
 
