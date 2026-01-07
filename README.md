@@ -6,8 +6,7 @@
 
 ### 🚀 What I'm Working On
 
-* Developing projects using **FastAPI**, **React.js**, and **PostgreSQL**
-* Exploring **Data Analytics** and real-world data-driven insights
+* Developing projects using **FastAPI**, **React.js**, and **PostgreSQL**,**Docker**
 
 ---
 
